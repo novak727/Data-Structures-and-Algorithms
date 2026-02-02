@@ -1,5 +1,7 @@
 # Data Structures and Algorithms
 This repository holds all programs made during my Data Structures and Algorithms class. Each folder contains a program with all necessary source code necessary to run said program. Please check each project to find which files will need to be compiled to use each program. The Individual-Programs folder contains programs that only require a single C++ source code file to compile and run the program.
+
+The main project from this course was a text-based Interactive Fiction Game Engine, similar to a choose your own adventure style. That project can be viewed [here](https://github.com/novak727/Interactive-Fiction-Game-Engine).
 # C++ Installation and Usage
 The programs in this repository can be executed using the C++ language and the g++ compiler.
 
